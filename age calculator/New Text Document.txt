@@ -1,0 +1,5 @@
+A GUI application to calculate age,
+
+the program asks the user to enter the name and date of birth.
+
+Then get that information from the entry widgets and will calculate the user’s age.

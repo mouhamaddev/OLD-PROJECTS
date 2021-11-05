@@ -1,0 +1,1 @@
+When sending emails, the email is first taken through some protocols to determine whether it is spam mail or not. It usually has to be parsed by the Simple Mail Transfer Protocol(SMTP) and for various emails such as Gmail, it goes through more protocols.

@@ -1,0 +1,1 @@
+A real-time GUI to Send OTP Using Python. For this project, modules used : Tkinter, Requests, Random, and JSON.
